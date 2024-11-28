@@ -43,18 +43,18 @@ StudyMate is built to bridge the gap between instructors and learners by offerin
 
 1. Clone the repository:
    
-[git clone https://github.com/username/StudyMate.git]
+[git clone https://github.com/username/StudyMate.git](url)
 
 2. Navigate to the project directory:
    
-[cd StudyMate]
+[cd StudyMate](url)
 
 3. Install dependencies for both frontend and backend:
    
 [cd client  
 npm install  
 cd ../server  
-npm install]
+npm install](url)
 
 4. Configure environment variables:
    
@@ -63,7 +63,7 @@ npm install]
 
 5. Start the development server:
    
-[npm run dev]
+[npm run dev](url)
 
 # 🚀 Usage
 
