@@ -3,9 +3,13 @@ StudyMate is a cloud-based e-learning platform designed to empower instructors a
 
 ![image](https://github.com/user-attachments/assets/8115ecd2-6a43-4a4e-97ef-91172c35e810)
 
-Login Page : ![image](https://github.com/user-attachments/assets/c2d01ab4-fb19-4ff1-9863-ba9e9a9d0c71)
+Login Page : 
 
-Signup Page (Student & Instructor Role Based Access) : ![image](https://github.com/user-attachments/assets/14011c19-c6f2-4a90-a198-16b9c411eaae)
+![image](https://github.com/user-attachments/assets/c2d01ab4-fb19-4ff1-9863-ba9e9a9d0c71)
+
+Signup Page (Student & Instructor Role Based Access) : 
+
+![image](https://github.com/user-attachments/assets/14011c19-c6f2-4a90-a198-16b9c411eaae)
 
 
 # 📝 Description
@@ -39,18 +43,18 @@ StudyMate is built to bridge the gap between instructors and learners by offerin
 
 1. Clone the repository:
    
-(git clone https://github.com/username/StudyMate.git)
+[git clone https://github.com/username/StudyMate.git]
 
 2. Navigate to the project directory:
    
-(cd StudyMate)
+[cd StudyMate]
 
 3. Install dependencies for both frontend and backend:
    
-(cd client  
+[cd client  
 npm install  
 cd ../server  
-npm install)
+npm install]
 
 4. Configure environment variables:
    
@@ -59,7 +63,7 @@ npm install)
 
 5. Start the development server:
    
-(npm run dev)
+[npm run dev]
 
 # 🚀 Usage
 
