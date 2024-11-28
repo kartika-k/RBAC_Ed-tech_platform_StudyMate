@@ -25,46 +25,46 @@ StudyMate is built to bridge the gap between instructors and learners by offerin
 
 # 💻 Tech Stack
 
-Frontend: React.js, Tailwind CSS
+- Frontend: React.js, Tailwind CSS
 
-Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
-Database: MongoDB
+- Database: MongoDB
 
-Cloud Services: Cloudinary for video hosting
+- Cloud Services: Cloudinary for video hosting
 
-Payment Gateway: Razorpay
+- Payment Gateway: Razorpay
 
 # ⚙️ Installation
 
 1. Clone the repository:
    
-git clone https://github.com/username/StudyMate.git  
+(git clone https://github.com/username/StudyMate.git)
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
-cd StudyMate  
+(cd StudyMate)
 
-4. Install dependencies for both frontend and backend:
+3. Install dependencies for both frontend and backend:
    
-cd client  
+(cd client  
 npm install  
 cd ../server  
-npm install
+npm install)
 
-6. Configure environment variables:
+4. Configure environment variables:
    
--Create .env files for the client and server directories.
--Add API keys for Razorpay, Cloudinary, and MongoDB connection strings.
+- Create .env files for the client and server directories.
+- Add API keys for Razorpay, Cloudinary, and MongoDB connection strings.
 
-8. Start the development server:
+5. Start the development server:
    
-npm run dev
+(npm run dev)
 
 # 🚀 Usage
 
-Access the app at http://localhost:3000 (default port).
+- Access the app at http://localhost:3000 (default port).
 
-Create an account as an admin, instructor, or learner.
+- Create an account as an admin, instructor, or learner.
 
-Explore the RBAC features by logging in with different roles.
+- Explore the RBAC features by logging in with different roles.
